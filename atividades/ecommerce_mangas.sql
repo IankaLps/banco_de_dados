@@ -1,4 +1,6 @@
+-- Atividade 2
 CREATE DATABASE db_ecommerce_mangas;
+
 USE db_ecommerce_mangas;
 
 CREATE TABLE tb_produtos(
